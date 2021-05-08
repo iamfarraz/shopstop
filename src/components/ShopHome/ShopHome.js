@@ -80,9 +80,7 @@ class ShopHome extends Component {
                 >
                    Log out 
                 </button>
-                <div className="mb3 tc f6 home">
-                    <p onClick={() => onRouteChange('shoporders')} className="blue di pointer underline ph1">Orders</p>
-                </div>
+              
             </div>
         </div>
     )

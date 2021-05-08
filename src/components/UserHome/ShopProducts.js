@@ -25,10 +25,14 @@ class ShopProducts extends Component {
           
 
     }
+    handleBack=()=>{
+    this.props.handleUserRouteChange("home","")
+    }
     render(){
         const {products}=this.state;
         return(
           <div>
+              <button onClick={this.handleBack}>back to shops</button>
               {
                   products.map((cur_product,ind)=>{
                    return <Product
@@ -37,7 +41,9 @@ class ShopProducts extends Component {
                      price={cur_product.price}
                      pid={cur_product.pid}
                      qty={cur_product.quantity_available}
-                   />
+                    shopid={this.props.shopid}
+                    cust_id={this.props.cust_id}
+                     />
                   })
                   
               }
