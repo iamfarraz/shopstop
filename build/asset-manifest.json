@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/shopstop/static/css/main.4fec26a5.chunk.css",
-    "main.js": "/shopstop/static/js/main.fdbee1e3.chunk.js",
-    "main.js.map": "/shopstop/static/js/main.fdbee1e3.chunk.js.map",
-    "runtime-main.js": "/shopstop/static/js/runtime-main.872fa887.js",
-    "runtime-main.js.map": "/shopstop/static/js/runtime-main.872fa887.js.map",
-    "static/css/2.31461e4f.chunk.css": "/shopstop/static/css/2.31461e4f.chunk.css",
-    "static/js/2.3f42928a.chunk.js": "/shopstop/static/js/2.3f42928a.chunk.js",
-    "static/js/2.3f42928a.chunk.js.map": "/shopstop/static/js/2.3f42928a.chunk.js.map",
-    "static/js/3.2ed7fa49.chunk.js": "/shopstop/static/js/3.2ed7fa49.chunk.js",
-    "static/js/3.2ed7fa49.chunk.js.map": "/shopstop/static/js/3.2ed7fa49.chunk.js.map",
+    "main.css": "/shopstop/static/css/main.0d62230d.chunk.css",
+    "main.js": "/shopstop/static/js/main.777ae150.chunk.js",
+    "main.js.map": "/shopstop/static/js/main.777ae150.chunk.js.map",
+    "runtime-main.js": "/shopstop/static/js/runtime-main.1733e3b3.js",
+    "runtime-main.js.map": "/shopstop/static/js/runtime-main.1733e3b3.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/shopstop/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.682c1fed.chunk.js": "/shopstop/static/js/2.682c1fed.chunk.js",
+    "static/js/2.682c1fed.chunk.js.map": "/shopstop/static/js/2.682c1fed.chunk.js.map",
+    "static/js/3.7177a61f.chunk.js": "/shopstop/static/js/3.7177a61f.chunk.js",
+    "static/js/3.7177a61f.chunk.js.map": "/shopstop/static/js/3.7177a61f.chunk.js.map",
     "index.html": "/shopstop/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/shopstop/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.4fec26a5.chunk.css.map": "/shopstop/static/css/main.4fec26a5.chunk.css.map",
-    "static/js/2.3f42928a.chunk.js.LICENSE.txt": "/shopstop/static/js/2.3f42928a.chunk.js.LICENSE.txt",
+    "static/css/2.6d7c7915.chunk.css.map": "/shopstop/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.0d62230d.chunk.css.map": "/shopstop/static/css/main.0d62230d.chunk.css.map",
+    "static/js/2.682c1fed.chunk.js.LICENSE.txt": "/shopstop/static/js/2.682c1fed.chunk.js.LICENSE.txt",
     "static/media/UserHome.css": "/shopstop/static/media/background.5faeed55.jpg",
     "static/media/shopkeeperIcon.213de419.png": "/shopstop/static/media/shopkeeperIcon.213de419.png",
     "static/media/shopperIcon.88ca6700.png": "/shopstop/static/media/shopperIcon.88ca6700.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.872fa887.js",
-    "static/css/2.31461e4f.chunk.css",
-    "static/js/2.3f42928a.chunk.js",
-    "static/css/main.4fec26a5.chunk.css",
-    "static/js/main.fdbee1e3.chunk.js"
+    "static/js/runtime-main.1733e3b3.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.682c1fed.chunk.js",
+    "static/css/main.0d62230d.chunk.css",
+    "static/js/main.777ae150.chunk.js"
   ]
 }
