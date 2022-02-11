@@ -1,7 +1,6 @@
 
 import React, { Component } from 'react';
 import './App.css';
-import Construction from './construction.jpg'
 import Navigation from './components/Navigation/Navigation';
 import UserType from './components/UserType/UserType'
 import SignInBuyer from './components/SignInBuyer/SignInBuyer'
@@ -133,9 +132,7 @@ now =  <EditUserDetails onRouteChange={this.onRouteChange} />
   
    
     else {
-    now= <div className='center pa7-ns'>
-    <img src={Construction} alt='Logo' />  
-    </div>
+      now = <UserType onRouteChange={this.onRouteChange} />
     }
     return (
      <div className='App'>  
